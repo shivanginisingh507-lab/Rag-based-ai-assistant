@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+python-multipart
+
+# Audio / Video
+ffmpeg-python
+
+# Whisper
+openai-whisper
+torch
+
+# Data & ML
+numpy
+pandas
+scikit-learn
+joblib
+
+# Embeddings (Ollama)
+requests
+
+# LLM
+google-genai
+python-dotenv
